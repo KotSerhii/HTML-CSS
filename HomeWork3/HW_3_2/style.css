@@ -1,0 +1,24 @@
+*{
+  margin: 0;
+}
+section{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 50vh;
+}
+.up{
+  background-color: #f88bbe;
+  color: #292626;
+}
+.down{
+  background-color: #292626;
+  color: #f88bbe;
+}
+h2{
+  margin: 20px;
+}
+p{
+  width: 80%;
+}

@@ -1,0 +1,38 @@
+header, main, section{
+  color: #f4efef;
+}
+header, section {
+  width: 60vw;
+  background-color: #1260aa;
+  margin: 10px auto;
+  font-size: 48px;
+  text-align: center;
+}
+header{
+    height: 20vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  }
+main {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 60vw;
+  margin: 10px auto;
+}
+p{
+  width: 19vw;
+  height: 350px;
+  background-color: #0a2f51;
+  font-size: 28px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+section{
+  height: 50vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

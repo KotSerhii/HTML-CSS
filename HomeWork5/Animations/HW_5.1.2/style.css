@@ -1,0 +1,28 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Barrio&family=Rubik+Glitch&display=swap');
+*{
+  margin: 0;
+}
+div{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #b3d4fc;
+}
+h1{
+    font-family: "Barrio", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: green;
+    font-size: 2rem;
+  animation: plain 10s linear infinite;
+}
+ @keyframes plain {
+ from{ transform: translate(-600px, -300px)}
+  30% {transform: scale(3); }
+  40% {transform: scale(3.5) skewX(30deg); color:yellow;}
+  50%{transform: scale(4) skewX(-30deg);}
+   60% {transform: scale(4.5)skewX(30deg); color:darkred; font-weight: bold}
+   to{ transform: translate(600px, -300px); color:cornflowerblue;}
+ }

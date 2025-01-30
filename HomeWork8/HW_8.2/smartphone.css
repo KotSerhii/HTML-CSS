@@ -1,0 +1,23 @@
+@media screen and (max-width: 768px){
+
+  .wrap{
+    flex-direction: column;
+    margin: 32px 16px;
+    gap: 32px;
+  }
+  .first-line{
+    gap: 32px;
+    flex-direction: column;
+  }
+  .second-line{
+    gap: 32px;
+    flex-direction: column;
+  }
+  img{
+    width: 128px;
+    height: 128px;
+  }
+  .card{
+    width: 343px;
+  }
+}

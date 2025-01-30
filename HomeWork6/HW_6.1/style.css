@@ -1,0 +1,21 @@
+
+ul {
+  list-style-type: none;
+}
+
+div#second-pink > ul > li:nth-child(even) {
+  color: hotpink
+}
+div#odd-22px > ul > li:nth-child(odd) {
+  font-size: 22px;
+}
+div#second-after-fourth\! > ul > li:nth-child(2n+4)::after {
+  content: "!";
+}
+div#last-purple > ul > li:last-of-type {
+  color: mediumpurple;
+}
+div#capital-red-30px>ul>li::first-letter{
+  font-size: 30px;
+  color: red;
+}
