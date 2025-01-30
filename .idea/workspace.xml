@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="167b8e1a-80fb-4c1d-b038-1535c342f372" name="Changes" comment="">
+    <list default="true" id="167b8e1a-80fb-4c1d-b038-1535c342f372" name="Changes" comment="restore">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,7 +82,7 @@
     "project.structure.last.edited": "Problems",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.general",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -155,7 +155,8 @@
       <workItem from="1738241746586" duration="732000" />
       <workItem from="1738242496720" duration="315000" />
       <workItem from="1738242952905" duration="210000" />
-      <workItem from="1738244043760" duration="629000" />
+      <workItem from="1738244043760" duration="931000" />
+      <workItem from="1738244992337" duration="92000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -221,7 +222,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738163390265</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="restore">
+      <option name="closed" value="true" />
+      <created>1738244816321</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1738244816321</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -288,6 +297,7 @@
     <MESSAGE value="add section category" />
     <MESSAGE value="add section subscribe" />
     <MESSAGE value="add footer&#10;complete" />
-    <option name="LAST_COMMIT_MESSAGE" value="add footer&#10;complete" />
+    <MESSAGE value="restore" />
+    <option name="LAST_COMMIT_MESSAGE" value="restore" />
   </component>
 </project>
