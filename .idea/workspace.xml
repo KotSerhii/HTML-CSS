@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="167b8e1a-80fb-4c1d-b038-1535c342f372" name="Changes" comment="restore1">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="167b8e1a-80fb-4c1d-b038-1535c342f372" name="Changes" comment="restore2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -161,6 +159,7 @@
       <workItem from="1738244043760" duration="931000" />
       <workItem from="1738244992337" duration="488000" />
       <workItem from="1738245494330" duration="202000" />
+      <workItem from="1738245709011" duration="329000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -242,7 +241,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738245415389</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="restore2">
+      <option name="closed" value="true" />
+      <created>1738245881167</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1738245881167</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -311,6 +318,7 @@
     <MESSAGE value="add footer&#10;complete" />
     <MESSAGE value="restore" />
     <MESSAGE value="restore1" />
-    <option name="LAST_COMMIT_MESSAGE" value="restore1" />
+    <MESSAGE value="restore2" />
+    <option name="LAST_COMMIT_MESSAGE" value="restore2" />
   </component>
 </project>
