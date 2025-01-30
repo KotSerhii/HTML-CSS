@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="167b8e1a-80fb-4c1d-b038-1535c342f372" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;KotSerhii&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/KotSerhii/HTML-CSS.git&quot;,
+    &quot;accountId&quot;: &quot;6079b819-10a9-47ad-a3bc-18d75ffa6308&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2qwApa2Q0Ahmf1UneWc3RaeX180" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;JavaScript Debug.Burgers.html.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/IdeaProjects/HTML-CSS/HomeWork3/HW_3_1&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;C:/Users/User/AppData/Roaming/JetBrains/IntelliJIdea2024.3/node/versions/22.12.0/node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Problems&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.general&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\HTML-CSS\Final_Project\img" />
+      <recent name="C:\Users\User\IdeaProjects\HTML-CSS\HomeWork8\HW_8.2\img" />
+      <recent name="C:\Users\User\IdeaProjects\HTML-CSS\HomeWork8\HW_8.1\img" />
+      <recent name="C:\Users\User\IdeaProjects\HTML-CSS\HomeWork7\HW_7.2\img" />
+      <recent name="C:\Users\User\IdeaProjects\HTML-CSS\HomeWork7\HW_7.1\img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\HTML-CSS\HomeWork5\Animations" />
+      <recent name="C:\Users\User\IdeaProjects\HTML-CSS\HomeWork4\HW_4.1" />
+      <recent name="C:\Users\User\IdeaProjects\HTML-CSS\HomeWork3\HW_3_2" />
+      <recent name="C:\Users\User\IdeaProjects\HTML-CSS\Lesson1" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Burgers.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML-CSS/HomeWork5/HW_5.2/Burgers.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.Burgers.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-125ca727e0f0-intellij.indexing.shared.core-IU-243.23654.189" />
+        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-IU-243.23654.189" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="167b8e1a-80fb-4c1d-b038-1535c342f372" name="Changes" comment="" />
+      <created>1735563463422</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1735563463422</updated>
+      <workItem from="1735563464528" duration="13291000" />
+      <workItem from="1736116162993" duration="27311000" />
+      <workItem from="1736345170223" duration="5100000" />
+      <workItem from="1736425338864" duration="21470000" />
+      <workItem from="1736699724215" duration="8646000" />
+      <workItem from="1736754992782" duration="22645000" />
+      <workItem from="1736778823260" duration="89000" />
+      <workItem from="1736879657599" duration="30223000" />
+      <workItem from="1736937469216" duration="13008000" />
+      <workItem from="1737016367091" duration="32496000" />
+      <workItem from="1737122672437" duration="5136000" />
+      <workItem from="1737139187380" duration="10121000" />
+      <workItem from="1737358484388" duration="6484000" />
+      <workItem from="1737543781001" duration="4997000" />
+      <workItem from="1737642088045" duration="76396000" />
+      <workItem from="1738162008147" duration="72000" />
+      <workItem from="1738162119589" duration="19000" />
+      <workItem from="1738162167110" duration="28000" />
+      <workItem from="1738162813205" duration="31000" />
+      <workItem from="1738163278067" duration="175000" />
+      <workItem from="1738167055682" duration="672000" />
+      <workItem from="1738234449182" duration="746000" />
+      <workItem from="1738235210364" duration="1237000" />
+      <workItem from="1738236472659" duration="456000" />
+      <workItem from="1738238687782" duration="3029000" />
+      <workItem from="1738241746586" duration="732000" />
+      <workItem from="1738242496720" duration="315000" />
+      <workItem from="1738242952905" duration="210000" />
+    </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1737545769145</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1737545769145</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add Final_Project.html">
+      <option name="closed" value="true" />
+      <created>1737645484520</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1737645484520</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add nav">
+      <option name="closed" value="true" />
+      <created>1737724675243</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1737724675243</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add section category">
+      <option name="closed" value="true" />
+      <created>1737978788481</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1737978788481</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add section subscribe">
+      <option name="closed" value="true" />
+      <created>1738070628294</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1738070628294</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add section subscribe">
+      <option name="closed" value="true" />
+      <created>1738075266199</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1738075266199</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add footer&#10;complete">
+      <option name="closed" value="true" />
+      <created>1738158090269</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1738158090269</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add footer&#10;complete">
+      <option name="closed" value="true" />
+      <created>1738163390265</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1738163390265</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="HEAD" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/master" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <MESSAGE value="add Final_Project.html" />
+    <MESSAGE value="add nav" />
+    <MESSAGE value="add main" />
+    <MESSAGE value="add section category" />
+    <MESSAGE value="add section subscribe" />
+    <MESSAGE value="add footer&#10;complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="add footer&#10;complete" />
+  </component>
+</project>
