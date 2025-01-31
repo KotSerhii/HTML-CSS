@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Grid4</title>
+  <style>
+    * {
+      margin: 0;
+    }
+
+    .wrap {
+      height: 100vh;
+      display: grid;
+      grid-template-rows: 5% 40% 34% 10% 11%;
+      grid-template-columns: 60% 40%;
+      grid-template-areas:
+    "header header"
+    "main-left rightup"
+    "main-left rightdown"
+    "footer footer"
+    "address address";
+    }
+
+    header {
+      grid-area: header;
+      background: #D9D9D9;
+    }
+
+    .left {
+      grid-area: main-left;
+      background: #A4A4A4;
+    }
+    .upper-right{
+      grid-area: rightup;
+      background: #C0BDBD;
+    }
+    .bottom-right{
+      grid-area:rightdown;
+      background: #615050;
+    }
+    address{
+      grid-area: address;
+      background: #AFA9A9;
+    }
+    footer{
+      grid-area: footer;
+      background: #D9D9D9;
+    }
+
+  </style>
+</head>
+<body>
+<div class="wrap">
+  <header></header>
+  <main class="left"></main>
+  <main class="upper-right"></main>
+  <main class="bottom-right"></main>
+  <footer></footer>
+  <address></address>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Grid5</title>
+  <style>
+    *{
+      margin: 0;
+    }
+    .wrap {
+      height: 100vh;
+      display: grid;
+      grid-template-rows:5% 43% 43% 9%;
+      grid-template-columns:29% 31% 40%;
+      grid-template-areas:
+    "header header header"
+    "left-aside main rightup-aside"
+    "left-aside main rightbottom-aside"
+    "footer footer footer";
+    }
+
+    header {
+      background: #D9D9D9;
+      grid-area: header;
+    }
+
+    .left {
+      background: #A4A4A4;
+      grid-area: left-aside;
+    }
+
+    main {
+      background: #C1C1C1;
+      grid-area: main;
+    }
+
+    .rightup {
+      background: #7F7A7A;
+      grid-area: rightup-aside;
+    }
+
+    .rightbottom {
+      background: #6B6161;
+      grid-area: rightbottom-aside;
+    }
+
+    footer {
+      background: #D9D9D9;
+      grid-area: footer;
+    }
+
+  </style>
+</head>
+<body>
+<div class="wrap">
+  <header></header>
+  <aside class="left"></aside>
+  <main></main>
+  <aside class="rightup"></aside>
+  <aside class="rightbottom"></aside>
+  <footer></footer>
+</div>
+</body>
+</html>
